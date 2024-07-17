@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DogOld-coder.
 - 👀 I am interested in learning about the software industry.
-- 🌱 I am interested in learning about the software industry.
+- 🌱 I am currently learning programming and software engineering.
 - 💞️ I am looking to collaborate on big projects.
 - 📫 How to reach me even incognito.
 - 😄 Pronouns: Pioner.
