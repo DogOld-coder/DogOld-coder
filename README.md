@@ -5,6 +5,7 @@
 - 📫 How to reach me even incognito.
 - 😄 Pronouns: Pioner.
 - ⚡ Fun fact: nothing.
+- 🐶 también hablo español
 
 <!---
 DogOld-coder/DogOld-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
